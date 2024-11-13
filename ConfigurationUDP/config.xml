@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+	<MulticastSettings>
+		<Address>239.0.0.1</Address>
+		<Port>12346</Port>
+	</MulticastSettings>
+	<RandomSettings>
+		<MinValue>150</MinValue>
+		<MaxValue>300</MaxValue>
+	</RandomSettings>
+	
+</Configuration>
