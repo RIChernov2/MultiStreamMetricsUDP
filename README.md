@@ -1,4 +1,3 @@
-# Переключение языка / Language Switch
 
 - [Russian](#russian)
 - [English](#english)
