@@ -1,6 +1,6 @@
 ([🇺🇸 Read in English](README.md) | [🇷🇺 Читать на русском](README.ru.md))
 
-# Test task
+# Test Assignment
 
 ---
 
